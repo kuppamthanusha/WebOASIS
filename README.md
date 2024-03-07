@@ -27,7 +27,7 @@ With a basic understanding of HTML and CSS, you can easily create a page for som
 [Live](https://kuppamthanusha.github.io/WebOASIS/calculator/tribute.html)
 
 
-##Task3 - A BASIC TO-DO WEBAPP
+## Task3 - A BASIC TO-DO WEBAPP
 Develop a basic to-do app that enables a user to add daily tasks.
 
 The to-do web app must allow users to add new items to a list, and items added to a list must be visible. Also, a user can mark a task “complete” upon its successful completion, and these completed tasks must appear on a separate list, say Completed Tasks.
@@ -39,7 +39,7 @@ To further increase the web app's complexity or make it more detailed, you can a
 [Live]
 
 
-##Task4 - LOGIN AUTHENTICATION 
+## Task4 - LOGIN AUTHENTICATION 
 
 Create a simple login authentication system using a programming language of your choice (e.g., Python, JavaScript, Java, etc.) that allows users to register, login, and access a secured page.
 
