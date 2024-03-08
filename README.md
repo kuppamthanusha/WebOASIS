@@ -36,7 +36,7 @@ You can also add a separate section titled Pending Tasks that will list all the 
 
 To further increase the web app's complexity or make it more detailed, you can add the date and time when a task is added and/or completed.
 
-[Live] (https://kuppamthanusha.github.io/WebOASIS/task3/todolist.html)
+[Live](https://kuppamthanusha.github.io/WebOASIS/task3/todolist.html)
 
 
 
