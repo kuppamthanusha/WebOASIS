@@ -13,7 +13,7 @@ It takes a little skill to create a calculator with basic mathematical functiona
 Calculators require an interactive interface to perform basic functions such as addition, subtraction, division, and multiplication.
 It will need a  display screen to display the user’s input and give the results. The grid system in CSS is for the alignments of buttons on the calculator. The additional tools you need to build a fully functional calculator include eventListeners, if-else statements, operators, loops, and so on.
 
-[Live](https://kuppamthanusha.github.io/WebOASIS/calculator/cal.html)
+[Live](https://kuppamthanusha.github.io/WebOASIS/task1/cal.html)
 
 
 
@@ -24,7 +24,7 @@ TRIBUTE PAGE
 Laptop with Browser Icon
 With a basic understanding of HTML and CSS, you can easily create a page for someone you admire. Write about what you adore in the person, add images, give an appealing layout, use paragraphs appropriately. You can also play around with different font styles and background colors.
 
-[Live](https://kuppamthanusha.github.io/WebOASIS/calculator/tribute.html)
+[Live](https://kuppamthanusha.github.io/WebOASIS/task2/tribute.html)
 
 
 ## Task3 - A BASIC TO-DO WEBAPP
@@ -36,7 +36,8 @@ You can also add a separate section titled Pending Tasks that will list all the 
 
 To further increase the web app's complexity or make it more detailed, you can add the date and time when a task is added and/or completed.
 
-[Live]
+[Live] (https://kuppamthanusha.github.io/WebOASIS/task3/todolist.html)
+
 
 
 ## Task4 - LOGIN AUTHENTICATION 
@@ -44,4 +45,5 @@ To further increase the web app's complexity or make it more detailed, you can a
 Create a simple login authentication system using a programming language of your choice (e.g., Python, JavaScript, Java, etc.) that allows users to register, login, and access a secured page.
 
 
-[Live]
+[Live](https://kuppamthanusha.github.io/WebOASIS/task4/cal.html)
+
