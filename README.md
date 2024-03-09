@@ -43,9 +43,12 @@ To further increase the web app's complexity or make it more detailed, you can a
 ## Task4 - LOGIN AUTHENTICATION 
 
 Create a simple login authentication system using a programming language of your choice (e.g., Python, JavaScript, Java, etc.) that allows users to register, login, and access a secured page.
+
 **index.html**
 [Live](https://kuppamthanusha.github.io/WebOASIS/task4/templates/index.html)
+
 **register.html**
 [Live](https://kuppamthanusha.github.io/WebOASIS/task4/templates/register.html)
+
 **login.html**
 [Live](https://kuppamthanusha.github.io/WebOASIS/task4/templates/login.html)
